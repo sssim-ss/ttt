@@ -1,11 +1,11 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
+  "name": "t",
+  "displayName": "ttt",
+  "author": "[#8738ff[]]sssim[[]]",
   "description": "Gradle jar Mindustry mod template",
   "version": "0",
   "main": "sonnicon.modtemplate.ModTemplate",
-  "minGameVersion": "105",
+  "minGameVersion": "125",
   "dependencies": [],
   "hidden": false,
   "java": true
